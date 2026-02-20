@@ -1,1 +1,1 @@
-# polymarket-trading-15min-bot
+# polymarket-trading-bot-1hour
